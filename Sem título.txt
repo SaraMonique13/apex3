@@ -60,7 +60,3 @@ De acordo com a Pesquisa Nacional por Amostra de Domicílios (PNAD) TIC de 2022:
 2. UNDP. (2021). *Inclusão Digital e Igualdade.* Programa das Nações Unidas para o Desenvolvimento.  
 3. Barbosa, A. F. (2020). *Exclusão Digital no Brasil: Desafios e Soluções.* Revista Brasileira de Tecnologia e Inclusão.  
 4. TIC Domicílios. (2022). *Estudo sobre o Uso de Tecnologias no Brasil.* Cetic.br. Disponível em: [Cetic.br](https://cetic.br)  
-
----
-
-Se precisar de mais ajustes ou complementos, é só avisar!
