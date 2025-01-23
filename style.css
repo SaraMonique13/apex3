@@ -42,8 +42,8 @@ main{
 main p{
     text-align: justify;
     font-size: 1.2em;
-    margin-bottom: 10px;
     padding: 20px;
+    line-height: 1.5em;
 }
 
 section h2{
@@ -75,4 +75,16 @@ strong{
     background-color: #cf92a985;
     border-radius: 3px;
    padding: 3px;
+
+}
+
+ol, ul{
+    list-style-position: inside;
+}
+
+li{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-align: justify;
+    padding:20px ;
 }
