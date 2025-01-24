@@ -11,36 +11,38 @@
 }
 
 
+body{
+    background-color: #EFEFEF;
+    height: 100%;
+    width: 100%;
+    
+}
+
 header{
     background-color: #62293E;
     color: white;
     text-align: center;
     padding: 20px;
+    margin: 20px;
 }
 
 header h1{
     font-family: "Bebas Neue", serif;
 }
 
-body{
-    background-color: #EFEFEF;
-    max-width: 490px;
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: center;
-    align-items: center;
-    
-}
+
 
 main{
     background-color: white;
     text-align: center;
-    
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
     
 }
 
 main p{
-    text-align: justify;
+    
     font-size: 1.2em;
     padding: 20px;
     line-height: 1.5em;
@@ -61,7 +63,6 @@ section.ref{
 section.ref h3{
     font-family:"Bebas Neue", serif;
     font-size: 25px;
-    margin: 10px 0;
 }
 
 img{
@@ -72,9 +73,6 @@ img{
 strong{
     color: #62293E;
     font-weight: bold;
-    background-color: #cf92a985;
-    border-radius: 3px;
-   padding: 3px;
 
 }
 
@@ -83,7 +81,7 @@ ol, ul{
 }
 
 li{
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 1.5em;
     text-align: justify;
     padding:20px ;
